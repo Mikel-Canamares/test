@@ -1,3 +1,5 @@
 Se crea un fichero trabajando en una feature de gitflow
 
 añado una nueva caracteristica al mismo fichero con rama feature 2
+
+caracteristica 3 
